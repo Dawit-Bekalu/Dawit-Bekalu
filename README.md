@@ -1,11 +1,11 @@
-![logo](https://kariera.future-processing.pl/wp-content/uploads/2016/10/blog_DevDay2016-1.png)
+![logo](https://kariera.future-processing.pl/wp-content/uploads/2016/10/blog_DevDay2016-1.png) height
 
 <h1 align="center">Hi 👋, My name is Dawit Bekalu</h1>
 <h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawit-bekalu&label=Profile%20views&color=0e75b6&style=flat" alt="dawit-bekalu" /> </p>
 
-<img align="right" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width=400 heght=100>
+<img align="right" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width=400 height=250>
 
 - 🔭 I’m currently working **as remote Developer**
 
