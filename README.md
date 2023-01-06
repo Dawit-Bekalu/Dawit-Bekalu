@@ -1,4 +1,4 @@
-![logo](https://kariera.future-processing.pl/wp-content/uploads/2016/10/blog_DevDay2016-1.png)
+![logo](https://snyk.io/wp-content/uploads/blog-banner-github-scanning.png)
 
 <h1 align="center">Hi 👋, My name is Dawit Bekalu</h1>
 <h3 align="center">Software Developer</h3>
